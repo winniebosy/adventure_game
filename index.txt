@@ -27,3 +27,6 @@ I am the again presented with two choices:
  I am again presented to make a choice: What would you like to do?
     (Please enter 1 or 2)
     if i select either the game seems to continue on and on.
+
+ The nontype not iretable error tends to occur when you are looping(while) wrongly and does not return a value.
+ This is especially there is a typo.

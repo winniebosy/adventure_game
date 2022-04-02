@@ -1,0 +1,29 @@
+1. When the program begins to run, there is an introductory message which pause after every two seconds.
+2. When the introductory message is over, i am presented with two choices:
+ - To enter 1 to knock on the door of the house
+ -to enter 2 to peer to the cave.
+ 3.I am presented with a question to make a choice: 
+   What would you like to do? 
+   (Please enter 1 or 2)
+4. If i enter 1:
+    -tHERE are a number of events happening.
+    -I am presented with a question that has two choices:
+         What would you like to do:
+            (1) fight or (2) run away?
+5. If i select 1:
+   the game poses a question: would you like to fight again?
+    if i press yes:
+    the game restarts and presents the message: "Excellent! restarting the game
+
+
+6. When the program restarts, there is an introductory message but this time about a pirate
+7 When the introductory message is over, i am presented with a choice:
+If i enter 2:
+  there are a number of instructions.
+I am the again presented with two choices:
+ Enter 1 to knock on the door of the house
+ Enter 2 to peer into the cave.
+ What would you like to do?
+ I am again presented to make a choice: What would you like to do?
+    (Please enter 1 or 2)
+    if i select either the game seems to continue on and on.

@@ -17,7 +17,7 @@ An adventure game made with python
       - git clone 
       - unzip the clone file and navigate to the file
       - Open the file in the terminal  
- -Open tbe project on your desired editor
+ - Open tbe project on your desired editor
  
 ## Key Takeaways
  - use of functions to refactor code
